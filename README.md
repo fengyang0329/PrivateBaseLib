@@ -22,7 +22,7 @@ pod 'PrivateBaseLib'
 
 ## Author
 
-fengyang0329, longzh@mysoft.com.cn
+fengyang0329, 599086054@qq.com
 
 ## License
 
